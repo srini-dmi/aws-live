@@ -1,0 +1,6 @@
+customhost = "phoenixdb.cdljdyltrvuf.us-east-1.rds.amazonaws.com"
+customuser = "eagledba"
+custompass = "eagledba123"
+customdb = "phoenixdb"
+custombucket = "addemployee-sp"
+customregion = "us-east-2"
